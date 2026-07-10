@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Kenan%20Kanat&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Mobile%20%26%20Full-Stack%20Developer%20%7C%20Digital%20Marketing&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Kenan%20Kanat&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Mobile%20ve%20Full-Stack%20Developer%20%7C%20Digital%20Marketing&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/Kenfrozz">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&width=650&height=110&lines=Mobil%2C+masa%C3%BCst%C3%BC+ve+web+uygulamalar+geli%C5%9Ftiriyorum;Flutter+%C2%B7+Electron+%C2%B7+React+%C2%B7+PHP+%C2%B7+Supabase+%C2%B7+MySQL;Digital+Marketing+alanlar%C4%B1nda+da+%C3%A7al%C4%B1%C5%9Fmalar+yap%C4%B1yorum" alt="Typing SVG" />
