@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Kenan%20Kanat&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Builder%20of%20small%2C%20useful%20tools&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Kenan%20Kanat&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=K%C3%BC%C3%A7%C3%BCk%20ama%20i%C5%9Fe%20yarar%20ara%C3%A7lar%20%C3%BCretiyorum&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/Kenfrozz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&width=650&height=60&lines=Masa%C3%BCst%C3%BC+uygulamalar+%2B+otomasyon+ara%C3%A7lar%C4%B1;Electron+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Flutter;AI+destekli+developer+tool'lar+in%C5%9Fa+ediyorum" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&width=650&height=110&lines=Masa%C3%BCst%C3%BC+uygulamalar+%2B+otomasyon+ara%C3%A7lar%C4%B1;Electron+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Flutter;AI+destekli+developer+tool'lar+in%C5%9Fa+ediyorum" alt="Typing SVG" />
 </a>
 
 </div>
