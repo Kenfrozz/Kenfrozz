@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Kenan%20Kanat&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=K%C3%BC%C3%A7%C3%BCk%20ama%20i%C5%9Fe%20yarar%20ara%C3%A7lar%20%C3%BCretiyorum&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Kenan%20Kanat&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Mobile%20%26%20Full-Stack%20Developer%20%7C%20Digital%20Marketing&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/Kenfrozz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&width=650&height=110&lines=Masa%C3%BCst%C3%BC+uygulamalar+%2B+otomasyon+ara%C3%A7lar%C4%B1;Electron+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Flutter;AI+destekli+developer+tool'lar+in%C5%9Fa+ediyorum" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&width=650&height=110&lines=Mobil%2C+masa%C3%BCst%C3%BC+ve+web+uygulamalar+geli%C5%9Ftiriyorum;Flutter+%C2%B7+Electron+%C2%B7+React+%C2%B7+PHP+%C2%B7+Supabase+%C2%B7+MySQL;Digital+Marketing+alanlar%C4%B1nda+da+%C3%A7al%C4%B1%C5%9Fmalar+yap%C4%B1yorum" alt="Typing SVG" />
 </a>
 
 </div>
@@ -16,10 +16,13 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
